@@ -1,0 +1,17 @@
+
+United Airlines Accident Records: Aircraft Types and Details
+
+Accident 1: United Airlines Flight 232
+Accident ID: 1
+Aircraft Type: McDonnell Douglas DC-10
+Details: The flight suffered an uncontained engine failure, leading to the loss of all hydraulic systems. The crew managed to control the aircraft using differential thrust and attempted an emergency landing at Sioux Gateway Airport.
+
+Accident 2: United Airlines Flight 93
+Accident ID: 2
+Aircraft Type: Boeing 757
+Details: The flight was hijacked as part of the September 11 attacks. Passengers attempted to regain control of the aircraft from the hijackers.
+
+Accident 3: United Airlines Flight 328
+Accident ID: 3
+Aircraft Type: Boeing 777-200
+Details: Shortly after takeoff, the aircraft experienced a right engine failure. Debris from the engine fell onto residential areas below.

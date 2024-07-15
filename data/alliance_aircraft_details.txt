@@ -1,0 +1,17 @@
+
+Alliance Airlines Accident Records: Aircraft Types and Details
+
+Accident 1: Alliance Airlines Flight 764
+Accident ID: 1
+Aircraft Type: Fokker 100
+Details: The aircraft suffered a hydraulic system failure shortly after takeoff, resulting in the loss of nose wheel steering and flaps. The pilots managed to maintain control and declared an emergency. After burning off fuel to reach a safe landing weight, the aircraft returned to Brisbane and landed safely without further incident.
+
+Accident 2: Alliance Airlines Flight 850
+Accident ID: 2
+Aircraft Type: Fokker 100
+Details: During final approach to Perth Airport, the aircraft struck a flock of birds, causing significant damage to the right engine. The pilots shut down the affected engine and continued the approach with the remaining engine. They landed safely, and the passengers were evacuated as a precautionary measure.
+
+Accident 3: Alliance Airlines Flight 982
+Accident ID: 3
+Aircraft Type: Fokker 70
+Details: The aircraft encountered severe turbulence while descending towards Melbourne. Several passengers were thrown from their seats, resulting in minor injuries. The crew provided first aid and secured the cabin before continuing the descent. The aircraft landed safely, and the injured passengers were taken to the hospital for further evaluation.

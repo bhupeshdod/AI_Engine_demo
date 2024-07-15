@@ -1,0 +1,17 @@
+
+Air Canada Accident Records: Aircraft Types and Details
+
+Accident 1: Air Canada Flight 797
+Accident ID: 1
+Aircraft Type: McDonnell Douglas DC-9-32
+Details: A fire started in the aircraft's lavatory while in flight. The crew made an emergency landing at Cincinnati/Northern Kentucky International Airport. After the aircraft landed, the fire rapidly spread, resulting in the deaths of 23 passengers. 21 passengers and all crew members survived.
+
+Accident 2: Air Canada Flight 624
+Accident ID: 2
+Aircraft Type: Airbus A320
+Details: The aircraft struck power lines and an antenna array upon approach in heavy snow at Halifax Stanfield International Airport. The hard landing resulted in severe damage to the aircraft. All passengers and crew evacuated safely, with 25 people sustaining minor injuries.
+
+Accident 3: Air Canada Flight 759
+Accident ID: 3
+Aircraft Type: Airbus A320
+Details: The flight was cleared to land on a runway that was closed for maintenance at San Francisco International Airport. The aircraft almost landed on a taxiway where four other planes were waiting to take off. The near-miss incident was averted, and the aircraft went around and landed safely on a different runway.
