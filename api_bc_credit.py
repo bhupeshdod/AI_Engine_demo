@@ -1,6 +1,5 @@
 from flask import Flask, request, jsonify
 import pickle
-import numpy as np
 import pandas as pd
 
 app = Flask(__name__)
@@ -34,10 +33,10 @@ def predict():
             "prediction": int(prediction[0])
         }
         return jsonify(response)
-    except KeyError:
-        return jsonify({"error": "Invalid input data"}), 400
+    except KeyError as e:
+        return jsonify({"error": f"Missing key: {str(e)}"}), 400
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000)
